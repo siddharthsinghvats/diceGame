@@ -15,7 +15,7 @@ document.getElementById("play").addEventListener('click',function(){
        
     }
     else if(x<y){
-        e setTimeout(function(){
+        setTimeout(function(){
             elem.textContent="Player 2 Won!!";
         },100);
       
