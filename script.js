@@ -17,12 +17,12 @@ document.getElementById("play").addEventListener('click',function(){
     else if(x<y){
         setTimeout(function(){
             elem.textContent="Player 2 Won!!";
-        },100);
+        },1000);
       
     }
     else{
         setTimeout(function(){
             elem.textContent="Draw!!";
-        },100);
+        },1000);
     }
 })
