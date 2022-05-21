@@ -69,4 +69,11 @@ button:hover{
         padding:2%;
         width:50%;
     }
+
+   h1{
+     font-size:2rem;
+   } 
+   h2{
+    font-size:1.5rem;
+   } 
 }
